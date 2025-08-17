@@ -2,9 +2,13 @@
 title: Enhancements
 ---
 
-**Navigation:** [Home](/) · [Code Review](code-review.md) · [Enhancements](enhancements.md) · [Repository](https://github.com/BylliGoat/batchRename)
+<p>
+  <a href="{{ site.baseurl }}/">Home</a> ·
+  <a href="{{ site.baseurl }}/code-review.html">Code Review</a> ·
+  <a href="{{ site.baseurl }}/enhancements.html">Enhancements</a> ·
+  <a href="https://github.com/BylliGoat/batchRename">Repository</a>
+</p>
 
----
 # Enhancements (One Artifact, Three Categories)
 
 All three categories are implemented within the same application, **batchRename**.
