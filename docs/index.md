@@ -49,10 +49,8 @@ Each enhancement aligns with a core domain in computer science:
 
 These enhancements are interdependent—improving structure allowed for easier implementation of algorithms, which in turn made it practical to track metadata persistently. This ePortfolio not only demonstrates technical competency across the three targeted areas but also illustrates how those competencies converge in a maintainable, user-focused product.
 
----
-
 ## Original vs Enhanced
 
-**Repository:** <https://github.com/BylliGoat/batchRename>
-**Original State:** <https://github.com/BylliGoat/batchRename/releases/tag/v-before-capstone>
-**Final Submission:** <https://github.com/BylliGoat/batchRename/releases/tag/v-capstone-final>
+- **Repository:** <https://github.com/BylliGoat/batchRename>
+- **Original State:** <https://github.com/BylliGoat/batchRename/releases/tag/v-before-capstone>
+- **Final Submission:** <https://github.com/BylliGoat/batchRename/releases/tag/v-capstone-final>
