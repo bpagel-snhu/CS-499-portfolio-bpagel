@@ -3,9 +3,9 @@ title: Code Review
 ---
 
 <p>
-  <a href="{{ site.baseurl }}/">Home</a> ·
-  <a href="{{ site.baseurl }}/code-review.html">Code Review</a> ·
-  <a href="{{ site.baseurl }}/enhancements.html">Enhancements</a> ·
+  <a href="./">Home</a> ·
+  <a href="code-review.html">Code Review</a> ·
+  <a href="enhancements.html">Enhancements</a> ·
   <a href="https://github.com/BylliGoat/batchRename">Repository</a>
 </p>
 
