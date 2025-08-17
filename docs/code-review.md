@@ -15,4 +15,6 @@ title: Code Review
 - **Planned enhancements:** modular “multi-tool” shell; robust rename pipeline (plan → apply → undo); SQLite ingestion + viewer; cross-platform paths; UI/UX polish.
 
 **Links**
-- Repo: [BylliGoat/batchRename](https://github.com/BylliGoat/batchRename)
+- **Repository:** <https://github.com/BylliGoat/batchRename>
+- **Original State:** <https://github.com/BylliGoat/batchRename/releases/tag/v-before-capstone>
+- **Final Submission:** <https://github.com/BylliGoat/batchRename/releases/tag/v-capstone-final>
