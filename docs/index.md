@@ -8,7 +8,12 @@ Welcome! This ePortfolio showcases enhancements to **batchRename**, a Python-bas
 
 This front page is my **Professional Self-Assessment**, followed by links to the code review and the enhancement narratives.
 
-**Navigation:** [Home](/) · [Code Review](code-review.md) · [Enhancements](enhancements.md) · [Repository](https://github.com/BylliGoat/batchRename)
+<p>
+  <a href="{{ site.baseurl }}/">Home</a> ·
+  <a href="{{ site.baseurl }}/code-review.html">Code Review</a> ·
+  <a href="{{ site.baseurl }}/enhancements.html">Enhancements</a> ·
+  <a href="https://github.com/BylliGoat/batchRename">Repository</a>
+</p>
 
 ---
 
