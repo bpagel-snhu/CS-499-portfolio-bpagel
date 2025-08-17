@@ -23,13 +23,13 @@ During the program, I became more confident in planning out logic before writing
 
 My coursework helped me grow in the following areas:
 
-- **Collaboration in team environments:** I participated in peer discussions, reviewed code, and documented my own work clearly for maintainability and transferability. My capstone code review video simulates a team-facing walkthrough, emphasizing decisions and trade-offs rather than implementation alone.
+- **Collaboration in team environments:** I reviewed code and documented my own work clearly for maintainability and transferability. My capstone code review video simulates a team-facing walkthrough, emphasizing decisions and trade-offs rather than implementation alone.
   
 - **Communicating with stakeholders:** The interface design in this project, along with persistent settings and user-facing messaging, was informed by daily experience communicating with non-technical coworkers. I’ve also improved in writing professional documentation (as seen in the updated README and narrative submissions).
 
 - **Data Structures and Algorithms:** I’ve implemented efficient, scalable logic using dictionaries for collision detection, stacks for undo functionality, and recursive directory scanning to locate and evaluate files by structured patterns.
 
-- **Software Engineering and Databases:** I refactored monolithic code into modular components, applied design patterns like Command and MVC, and integrated a relational SQLite backend for persistent state tracking.
+- **Software Engineering and Databases:** I refactored monolithic code into modular components and integrated a relational SQLite backend for persistent state tracking.
 
 - **Security Mindset:** Input validation and parameterized SQL statements are now standard in my approach. I’ve adopted a cautious stance toward file handling and data persistence, storing sensitive data in user-controlled locations and avoiding unnecessary exposure.
 
