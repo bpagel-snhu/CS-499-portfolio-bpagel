@@ -3,6 +3,7 @@ title: Code Review
 ---
 
 # Code Review (Pre-Enhancement Walkthrough)
+**Navigation:** [Home](/) · [Code Review](code-review.md) · [Enhancements](enhancements.md) · [Repository](https://github.com/BylliGoat/batchRename)
 
 **Video:**  
 [Watch on YouTube](https://youtu.be/_2Klerb45NY)
