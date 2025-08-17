@@ -52,3 +52,10 @@ The biggest challenge was ensuring reliable parsing of filenames and handling in
 - **Repository:** <https://github.com/BylliGoat/batchRename>
 - **Original State:** <https://github.com/BylliGoat/batchRename/releases/tag/v-before-capstone>
 - **Final Submission:** <https://github.com/BylliGoat/batchRename/releases/tag/v-capstone-final>
+
+---
+
+## Downloads
+- Milestone 1 Narrative (Software Design & Engineering) – [CS499 - Milestone 1.docx](downloads/CS499 - Milestone 1.docx)
+- Milestone 2 Narrative (Algorithms & Data Structures) – [CS499 - Milestone 2.docx](downloads/CS499 - Milestone 2.docx)
+- Milestone 3 Narrative (Databases) – [CS499 - Milestone 3.docx](downloads/CS499 - Milestone 3.docx)
