@@ -49,4 +49,6 @@ The biggest challenge was ensuring reliable parsing of filenames and handling in
 
 ## Links to Code
 
-- **Repository:** <https://github.com/BylliGoat/batchRename>  
+- **Repository:** <https://github.com/BylliGoat/batchRename>
+- **Original State:** <https://github.com/BylliGoat/batchRename/releases/tag/v-before-capstone>
+- **Final Submission:** <https://github.com/BylliGoat/batchRename/releases/tag/v-capstone-final>
