@@ -2,8 +2,10 @@
 title: Enhancements
 ---
 
-# Enhancements (One Artifact, Three Categories)
 **Navigation:** [Home](/) · [Code Review](code-review.md) · [Enhancements](enhancements.md) · [Repository](https://github.com/BylliGoat/batchRename)
+
+---
+# Enhancements (One Artifact, Three Categories)
 
 All three categories are implemented within the same application, **batchRename**.
 
