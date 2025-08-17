@@ -9,28 +9,51 @@ title: Home
   <a href="https://github.com/BylliGoat/batchRename">Repository</a>
 </p>
 
+---
+title: Home
+---
+
 # Professional Self-Assessment
 
-I built this portfolio to present the work I’m most proud of from the Computer Science program and to show how I now approach problems as a developer. It’s meant to read like a hiring manager’s shortcut: how I think, how I communicate, and how I turn ambiguous real-world needs into reliable software. The code review, narratives, and tagged “original vs. final” releases provide traceable evidence for the claims I make here.
+Welcome to my CS 499 ePortfolio. This site presents the final artifact enhancements and supporting narratives for my capstone project, based on the program I developed and use professionally: **batchRename**, now titled **Barron Pagel File Utilities**.
 
-## A. How the program and ePortfolio shaped my strengths, goals, and readiness
+---
 
-**What changed.** Across the program—and especially while assembling this ePortfolio—I shifted from “just make it work” to designing for testability, rollback, portability, and user trust. I’m targeting roles where pragmatic automation and usable tooling matter (internal tools, legal tech, or small engineering teams that value ownership). The ePortfolio process forced me to distill technical decisions for a mixed audience and to present verifiable improvements, which mirrors real stakeholder communication.
+## A. Program Reflection and Skills Gained
 
-**Examples (beyond this artifact).**
-- **Coursework:** Data structures/algorithms reinforced writing to invariants and preconditions; testing courses pushed isolating side effects; reverse/software engineering strengthened reading unfamiliar code and reasoning about design trade-offs.
-- **Professional context:** In family law, I translate domain rules into unambiguous logic and UIs non-technical people can actually use. Real users, real data, real deadlines sharpened my bias for simplicity and failure-tolerant design.
+Throughout the Computer Science program at SNHU, I’ve gained a practical foundation in building tools that solve real-world problems. Developing this portfolio helped me consolidate that experience and reflect on the skills I now bring to the table.
 
-**Overall skills snapshot (not an artifact discussion):**
-- **Collaborating in a team environment:** I plan/code-review with structure, leave contextual in-code comments, and document decisions so others can follow the logic quickly. That’s the same discipline I use to support stakeholder decisions outside engineering.
-- **Communicating with stakeholders:** I package changes in concise READMEs, UI copy, and short demos. I tailor explanations—business impact for legal staff; design trade-offs and risk notes for technical reviewers.
-- **Data structures and algorithms:** I design pipelines that separate “plan” from “apply,” use sets/maps for O(1) duplicate detection, and rely on stack-based undo for transactional safety. I write pseudocode first when it clarifies trade-offs.
-- **Software engineering and databases:** I prefer modular boundaries, config-driven behavior, and cross-platform paths; for persistence I use SQLite with a normalized schema and parameterized queries. I document defaults and fail-safes so behavior is predictable.
-- **Security mindset:** I validate inputs at boundaries, avoid executing untrusted data, and minimize stored PII. I think about error states and reversibility early; preventing data loss is cheaper than recovery.
+During the program, I became more confident in planning out logic before writing code—especially through structured pseudocode, flowcharts, and UML diagrams. For example, I’ve learned to define workflows using command patterns and to model modular systems that scale. Outside the classroom, I used these skills in my work as a paralegal by building a Python utility to automate file renaming for discovery responses—a tool that has since expanded into a broader multi-tool suite.
 
-## B. How the artifacts fit together
+My coursework helped me grow in the following areas:
 
-This portfolio is intentionally cohesive: one real-world application enhanced along three dimensions—**software engineering/design**, **algorithms & data structures**, and **databases**—introduced here and detailed on the Enhancements page. The **code review** establishes the baseline; the **narratives** explain design decisions and trade-offs; and the **release tags** make the “before vs. after” verifiable. Together, they present how I design, reason, and communicate—so a reviewer sees both breadth and depth before reading any source file.
+- **Collaboration in team environments:** I participated in peer discussions, reviewed code, and documented my own work clearly for maintainability and transferability. My capstone code review video simulates a team-facing walkthrough, emphasizing decisions and trade-offs rather than implementation alone.
+  
+- **Communicating with stakeholders:** The interface design in this project, along with persistent settings and user-facing messaging, was informed by daily experience communicating with non-technical coworkers. I’ve also improved in writing professional documentation (as seen in the updated README and narrative submissions).
+
+- **Data Structures and Algorithms:** I’ve implemented efficient, scalable logic using dictionaries for collision detection, stacks for undo functionality, and recursive directory scanning to locate and evaluate files by structured patterns.
+
+- **Software Engineering and Databases:** I refactored monolithic code into modular components, applied design patterns like Command and MVC, and integrated a relational SQLite backend for persistent state tracking.
+
+- **Security Mindset:** Input validation and parameterized SQL statements are now standard in my approach. I’ve adopted a cautious stance toward file handling and data persistence, storing sensitive data in user-controlled locations and avoiding unnecessary exposure.
+
+Together, these experiences have shaped me into a pragmatic, solution-oriented developer—someone who builds tools that matter in day-to-day workflows. Whether I pursue roles in legal tech, internal tools, or standalone desktop applications, I now feel equipped with the skills and professional awareness to take that next step.
+
+---
+
+## B. Artifact Overview and Integration
+
+The three enhancements shown here are all built around a single evolving application: **Barron Pagel File Utilities**. This reflects a real-world trajectory of iterative software development—rather than building isolated demo projects, I chose to improve and scale a tool that I already depend on professionally.
+
+Each enhancement aligns with a core domain in computer science:
+
+- **Software Engineering:** Refactoring into a modular, multi-tool GUI with a persistent configuration layer and improved UI consistency.
+- **Algorithms and Data Structures:** Introducing undo functionality, optimized file parsing logic, and safe rename operations using structured data flows.
+- **Databases:** Implementing a relational SQLite system with client management, duplicate prevention, and integrated statement tracking.
+
+These enhancements are interdependent—improving structure allowed for easier implementation of algorithms, which in turn made it practical to track metadata persistently. This ePortfolio not only demonstrates technical competency across the three targeted areas but also illustrates how those competencies converge in a maintainable, user-focused product.
+
+---
 
 ## Original vs Enhanced
 
