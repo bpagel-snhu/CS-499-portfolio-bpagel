@@ -31,4 +31,7 @@ This front page is my **Professional Self-Assessment**, followed by links to the
    - Software Design & Engineering  
    - Algorithms & Data Structures  
    - Databases  
-3. Links out to original/enhanced code in the repository.
+3. **Links:**
+   - **Repository:** <https://github.com/BylliGoat/batchRename>
+   - **Original State:** <https://github.com/BylliGoat/batchRename/releases/tag/v-before-capstone>
+   - **Final Submission:** <https://github.com/BylliGoat/batchRename/releases/tag/v-capstone-final>
