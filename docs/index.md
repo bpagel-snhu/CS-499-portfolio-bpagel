@@ -9,10 +9,6 @@ title: Home
   <a href="https://github.com/BylliGoat/batchRename">Repository</a>
 </p>
 
----
-title: Home
----
-
 # Professional Self-Assessment
 
 Welcome to my CS 499 ePortfolio. This site presents the final artifact enhancements and supporting narratives for my capstone project, based on the program I developed and use professionally: **batchRename**, now titled **Barron Pagel File Utilities**.
