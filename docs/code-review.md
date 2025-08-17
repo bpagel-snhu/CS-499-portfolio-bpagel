@@ -7,7 +7,10 @@ title: Code Review
 **Video:**  
 [Watch on YouTube](https://youtu.be/_2Klerb45NY)
 
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/_2Klerb45NY" title="CS 499 Code Review" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="420"
+        src="https://www.youtube.com/embed/_2Klerb45NY"
+        title="CS 499 Code Review" frameborder="0" allowfullscreen></iframe>
+
 
 **What I cover in the review**
 - **Existing functionality:** batch renaming, PDF unlocking, early backup logic.
